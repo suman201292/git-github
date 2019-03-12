@@ -1,1 +1,2 @@
 first branch file : edu6.txt.
+modified it after first time merging in first branch.
